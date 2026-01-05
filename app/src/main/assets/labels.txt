@@ -1,0 +1,19 @@
+Sink
+Traffic light
+Bicycle
+Bus
+Person
+Chair
+Couch
+Door
+Street light
+Bed
+Refrigerator
+Motorcycle
+Table
+Television
+Truck
+Toilet
+Bench
+Car
+Stairs
